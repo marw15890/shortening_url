@@ -75,5 +75,5 @@ Additional test for 'routes' were also created. But for the sake of simplicity, 
 
 ## Authors
 
-* **Mohammad Abdul Rehman Waris** - *Coding assignment* - 
+* **Mohammad Abdul Rehman Waris** - * Coding assignment * - 
 
