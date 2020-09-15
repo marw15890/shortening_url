@@ -29,6 +29,16 @@ Once the virtual environment is up and running, install the requirements:
 ```
 pip install -r requirements.txt
 ```
+### Generating the database:
+* To generate the database run Python and follow the remaining commands:
+```
+python
+```
+```
+from shortening_url import create_app
+from shortening_url.db import db
+db.create_all(app=create_app())
+```
 
 ## Running the app
 ### Running flask:
